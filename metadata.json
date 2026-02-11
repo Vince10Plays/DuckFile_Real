@@ -1,0 +1,8 @@
+{
+  "name": "DuckFile",
+  "description": "A vibrant yellow and green file storage hub for your videos, songs, PDFs, and presentations with AI-powered file analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
